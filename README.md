@@ -79,6 +79,6 @@ This project effectively predicts airline passenger referrals using machine lear
 If you have any questions or suggestions, feel free to reach out!
 
 📩 Email: manisha.achary13@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/r-manisha-achary-470798204
+💼 LinkedIn: https://www.linkedin.com/in/r-manisha-achary-470798204<br>
 📂 GitHub: https://github.com/manishaachary13
 
